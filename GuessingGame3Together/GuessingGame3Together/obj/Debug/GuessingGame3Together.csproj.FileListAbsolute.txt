@@ -1,0 +1,7 @@
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\obj\Debug\GuessingGame3Together.csprojAssemblyReference.cache
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\obj\Debug\GuessingGame3Together.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\bin\Debug\GuessingGame3Together.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\bin\Debug\GuessingGame3Together.exe
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\bin\Debug\GuessingGame3Together.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\obj\Debug\GuessingGame3Together.exe
+C:\Users\so137325\Desktop\C#\Chapter5\GuessingGame3Together\GuessingGame3Together\obj\Debug\GuessingGame3Together.pdb

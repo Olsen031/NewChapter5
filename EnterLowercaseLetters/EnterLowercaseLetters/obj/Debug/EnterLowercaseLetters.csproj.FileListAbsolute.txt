@@ -1,0 +1,7 @@
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\EnterLowercaseLetters.csprojAssemblyReference.cache
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\EnterLowercaseLetters.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\EnterLowercaseLetters.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\EnterLowercaseLetters.exe
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\EnterLowercaseLetters.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\EnterLowercaseLetters.exe
+C:\Users\so137325\Desktop\C#\Chapter5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\EnterLowercaseLetters.pdb

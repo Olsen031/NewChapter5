@@ -1,0 +1,7 @@
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\bin\Debug\MessingWithLoops.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\bin\Debug\MessingWithLoops.exe
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\bin\Debug\MessingWithLoops.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\obj\Debug\MessingWithLoops.csprojAssemblyReference.cache
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\obj\Debug\MessingWithLoops.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\obj\Debug\MessingWithLoops.exe
+C:\Users\so137325\Desktop\C#\Chapter5\MessingWithLoops\MessingWithLoops\obj\Debug\MessingWithLoops.pdb

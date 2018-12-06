@@ -1,0 +1,7 @@
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.exe
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\DisplayMultiplicationTable.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.csprojAssemblyReference.cache
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.exe
+C:\Users\so137325\Desktop\C#\Chapter5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\DisplayMultiplicationTable.pdb

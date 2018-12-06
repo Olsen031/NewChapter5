@@ -1,0 +1,7 @@
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\obj\Debug\HomeSalesTake2.csprojAssemblyReference.cache
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\obj\Debug\HomeSalesTake2.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\bin\Debug\HomeSalesTake2.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\bin\Debug\HomeSalesTake2.exe
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\bin\Debug\HomeSalesTake2.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\obj\Debug\HomeSalesTake2.exe
+C:\Users\so137325\Desktop\C#\Chapter5\HomeSalesTake2\HomeSalesTake2\obj\Debug\HomeSalesTake2.pdb

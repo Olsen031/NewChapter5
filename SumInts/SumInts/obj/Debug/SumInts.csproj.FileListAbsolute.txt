@@ -1,0 +1,6 @@
+C:\Users\so137325\Desktop\C#\Chapter5\SumInts\SumInts\bin\Debug\SumInts.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\SumInts\SumInts\bin\Debug\SumInts.exe
+C:\Users\so137325\Desktop\C#\Chapter5\SumInts\SumInts\bin\Debug\SumInts.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\SumInts\SumInts\obj\Debug\SumInts.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\SumInts\SumInts\obj\Debug\SumInts.exe
+C:\Users\so137325\Desktop\C#\Chapter5\SumInts\SumInts\obj\Debug\SumInts.pdb

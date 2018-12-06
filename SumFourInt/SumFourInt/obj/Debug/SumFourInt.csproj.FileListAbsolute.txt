@@ -1,0 +1,7 @@
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\bin\Debug\SumFourInt.exe.config
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\bin\Debug\SumFourInt.exe
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\bin\Debug\SumFourInt.pdb
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\obj\Debug\SumFourInt.csprojAssemblyReference.cache
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\obj\Debug\SumFourInt.csproj.CoreCompileInputs.cache
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\obj\Debug\SumFourInt.exe
+C:\Users\so137325\Desktop\C#\Chapter5\SumFourInt\SumFourInt\obj\Debug\SumFourInt.pdb
